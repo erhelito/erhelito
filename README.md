@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @erhelito
+- 👋 Hi, I’m Erhel
 - 👀 I’m interested in a lot of things, maths, physics, engineering...
 - 🌱 I’m currently learning python and C++
 - 💞️ I’m looking to collaborate on whatever you want
